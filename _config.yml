@@ -23,6 +23,8 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+baseurl: "" # Empty for user/organization site or "/my-awesome-site" for project site
+url: "https://benjaminfargnoli.github.io" # Full URL of your site
 
 # Build settings
 markdown: kramdown
