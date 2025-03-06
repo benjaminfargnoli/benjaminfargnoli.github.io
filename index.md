@@ -1,5 +1,5 @@
 ---
-layout: single       # or 'home', 'splash', etc., depending on Minimal Mistakes
+layout: home       # or 'home', 'splash', etc., depending on Minimal Mistakes
 title: "Benjamin C. Fargnoli"
 permalink: "/"
 ---
