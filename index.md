@@ -1,13 +1,21 @@
 ---
-layout: home       # or 'home', 'splash', etc., depending on Minimal Mistakes
+layout: single
 title: "Benjamin C. Fargnoli"
 permalink: "/"
+author_profile: true
 ---
 
-# Work in Progress
+## About Me
 
-Check out my<br>
-[LinkedIn](https://linkedin.com/in/benjaminfargnoli/){:target="_blank"}  
-[X.com](https://x.com/BenjaminFargnol){:target="_blank"}  
-<br>
-Or contact me at [bcfargnoli13@gmail.com](mailto:bcfargnoli13@gmail.com).
+Georgia Tech Math | Emory Biophysics
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID){:target="_blank"}
+- [X / Twitter](https://x.com/BenjaminFargnol){:target="_blank"}
+- [LinkedIn](https://linkedin.com/in/benjaminfargnoli/){:target="_blank"}
+- [CV (PDF)](/assets/files/cv.pdf){:target="_blank"}
+
+## Contact
+
+[bcfargnoli13@gmail.com](mailto:bcfargnoli13@gmail.com)
