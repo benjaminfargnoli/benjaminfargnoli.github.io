@@ -2,7 +2,7 @@
 layout: single
 title: "Benjamin C. Fargnoli"
 permalink: "/"
-author_profile: true
+author_profile: false
 ---
 
 ## About Me
