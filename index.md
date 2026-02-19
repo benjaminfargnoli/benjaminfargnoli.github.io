@@ -5,6 +5,8 @@ permalink: "/"
 author_profile: false
 ---
 
+![Benjamin Fargnoli](/assets/images/headshot.jpg){: .align-center style="max-width: 200px; border-radius: 50%;"}
+
 ## About Me
 
 Georgia Tech Math | Emory Biophysics
